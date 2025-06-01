@@ -1,0 +1,12 @@
+{
+  "name": "m3u8-to-ts",
+  "version": "1.0.0",
+  "description": "Node server to stream TS from M3U8 based on ID",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
