@@ -50,8 +50,8 @@ app.get('/box.ts', (req, res) => {
 
 app.get('/', (req, res) => {
   res.send(`
-    <h2>m3u8 to TS Stream</h2>
-    <p>Usage: <code>/box.ts?id=1</code></p>
+    <h2>This is</h2>
+    <p>Usage: <code>made by anas</code></p>
   `);
 });
 
