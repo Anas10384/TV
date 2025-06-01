@@ -10,7 +10,7 @@ const channels = {
   '1': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/400159598.m3u8',
   '2': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/401627870.m3u8',
   '3': 'http://exm3u.extraott.com:80/live/2249871453/1991220000/187263.m3u8',
-  '4': 'https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8',
+  '4': 'http://ptu.ridsys.in/riptv/live/stream20/index.m3u8',
   '5': 'https://demo.unified-streaming.com/k8s/features/stable/avc1_2500000.m3u8'
 };
 
